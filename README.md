@@ -1,33 +1,9 @@
 <!-- BANNER PRINCIPAL COM EFEITO DE INICIALIZAÇÃO DE SISTEMA (ESTILO RETRÔ/FUTURISTA) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111927,100:1e1b4b&height=220&section=header&text=SYSTEM_BOOT:_INITIALIZING...&fontSize=22&fontColor=a855f7&fontAlignY=38&animation=fadeIn&desc=User:_Wandahoi39_|_Level_16&descSize=13&descColor=38bdf8">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111927,100:1e1b4b&height=220&section=header&text=SYSTEM_BOOT:_INITIALIZING...&fontSize=22&fontColor=a855f7&fontAlignY=38&animation=fadeIn&desc=User:_Wandahoi39_|_Level_16&descSize=13&descColor=38bdf8">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111927,100:1e1b4b&height=220&section=header&text=SYSTEM_BOOT:_INITIALIZING...&fontSize=22&fontColor=a855f7&fontAlignY=38&animation=fadeIn&desc=User:_Wandahoi39_|_Level_16&descSize=13&descColor=38bdf8" alt="Banner Principal">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111927,100:1e1b4b&height=220&section=header&text=SYSTEM_BOOT:_INITIALIZING...&fontSize=22&fontColor=a855f7&fontAlignY=38&animation=fadeIn&desc=User:_Wandahoi39_|_Level_16&descSize=13&descColor=38bdf8" alt="Banner Principal">
 </p>
 
-<!-- ESTILIZAÇÃO CSS CUSTOMIZADA PARA O GITHUB -->
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-  .typing-cursor {
-    animation: blink 1s infinite;
-    color: #a855f7;
-    font-weight: bold;
-  }
-  .retro-box {
-    border: 2px solid #334155;
-    background-color: #0d1117;
-    border-radius: 8px;
-    padding: 16px;
-    margin-bottom: 16px;
-  }
-</style>
-
-<!-- TYPING ANIMATION (VIA SVG/HTML) -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%3CPoint_of_Origin%3E:+Natal,+RN;%3CClass%3E:+Frontend_Developer;%3CStatus%3E:+Ready_to_Code_!;" alt="Typing Animation" />
 </p>
@@ -59,7 +35,6 @@
         <code>EQUIP:</code> VS Code + Café + Fones
       </p>
       <br>
-      <!-- Sprites 8-bit / Pixel Art estáveis via GitHub/Raw ou CDN de jogos -->
       <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Cursors/master/Cursor/Heart/Heart%201.gif" width="48" alt="Pixel Heart" />
       <p><code>[HP Crystal]</code></p>
     </td>
@@ -99,28 +74,20 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <div class="retro-box">
+      <blockquote>
         <h4>✨ Minha Vitrine Dev</h4>
         <p>Portfólio pessoal moderno desenvolvido com HTML5, CSS3 e JavaScript, focado em uma experiência interativa com temática retrô/pixel art.</p>
-        <p>
-          <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
-        </p>
-        <p>
-          <a href="https://github.com/Wandahoi39"><img src="https://img.shields.io/badge/Repositório-Code-9333ea?style=flat-square&logo=github" alt="Repo"></a>
-        </p>
-      </div>
+        <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></p>
+        <p><a href="https://github.com/Wandahoi39"><img src="https://img.shields.io/badge/Repositório-Code-9333ea?style=flat-square&logo=github" alt="Repo"></a></p>
+      </blockquote>
     </td>
     <td width="50%" align="center">
-      <div class="retro-box">
+      <blockquote>
         <h4>🎬 Movie Guessing Game</h4>
         <p>Jogo web interativo de adivinhação de filmes, incorporando lógica de pontuação dinâmica, paletas customizadas e animações suaves em CSS.</p>
-        <p>
-          <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
-        </p>
-        <p>
-          <a href="https://github.com/Wandahoi39"><img src="https://img.shields.io/badge/Repositório-Code-9333ea?style=flat-square&logo=github" alt="Repo"></a>
-        </p>
-      </div>
+        <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></p>
+        <p><a href="https://github.com/Wandahoi39"><img src="https://img.shields.io/badge/Repositório-Code-9333ea?style=flat-square&logo=github" alt="Repo"></a></p>
+      </blockquote>
     </td>
   </tr>
 </table>
@@ -157,10 +124,7 @@
 
 <h3 align="center">🐍 [ RASTRO DO JOGADOR ]</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wandahoi39/Wandahoi39/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Wandahoi39/Wandahoi39/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Wandahoi39/Wandahoi39/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <br/>
