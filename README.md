@@ -20,9 +20,9 @@
         Minha jornada começou explorando o universo de <strong>HTML5</strong> e <strong>CSS3</strong>, e agora estou expandindo meus poderes mágicos dominando <strong>JavaScript</strong>.
       </p>
       <ul>
-        <li>🛡️ <strong>Classe:</strong> Estudante de TI</li>
+        <li>🛡️ <strong>Classe:</strong> Estudante de Programação</li>
         <li>📍 <strong>Localização:</strong> Natal, RN - Brasil</li>
-        <li>🎮 <strong>Hobby:</strong>Jogar jogos de todos os tiopos, fazer covers com OpenUTAU</li>
+        <li>🎮 <strong>Hobby:</strong> Produção de covers de vocaloid, jogar jogos de qualquer gênero, aprender.</li>
         <li>💬 <strong>Missão:</strong> Escrever códigos limpos, responsivos e cheios de personalidade.</li>
       </ul>
     </td>
@@ -35,8 +35,8 @@
         <code>EQUIP:</code> VS Code + Café + Fones
       </p>
       <br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Cursors/master/Cursor/Heart/Heart%201.gif" width="48" alt="Pixel Heart" />
-      <p><code>[HP Crystal]</code></p>
+      <!-- Ícone SVG seguro em formato de coração pixel art estilizado -->
+      <img src="https://img.shields.io/badge/HP_CRYSTAL-%E2%99%A5-ef4444.svg?style=for-the-badge&logoColor=white" alt="HP Crystal" />
     </td>
   </tr>
 </table>
