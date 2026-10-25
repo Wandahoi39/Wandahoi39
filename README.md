@@ -20,9 +20,9 @@
         Minha jornada começou explorando o universo de <strong>HTML5</strong> e <strong>CSS3</strong>, e agora estou expandindo meus poderes mágicos dominando <strong>JavaScript</strong>.
       </p>
       <ul>
-        <li>🛡️ <strong>Classe:</strong> Desenvolvedor Front-End (Júnior / Aprendiz)</li>
+        <li>🛡️ <strong>Classe:</strong> Estudante de TI</li>
         <li>📍 <strong>Localização:</strong> Natal, RN - Brasil</li>
-        <li>🎮 <strong>Hobby:</strong> Produção de trilhas/covers, jogos retrô e desenvolvimento de mini-games web.</li>
+        <li>🎮 <strong>Hobby:</strong>Jogar jogos de todos os tiopos, fazer covers com OpenUTAU</li>
         <li>💬 <strong>Missão:</strong> Escrever códigos limpos, responsivos e cheios de personalidade.</li>
       </ul>
     </td>
