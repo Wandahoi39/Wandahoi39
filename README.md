@@ -56,9 +56,12 @@
         <code>HP:</code> ▓▓▓▓▓▓▓▓▓▓ (100/100)<br>
         <code>MP:</code> ▓▓▓▓▓▓░░░░ (60/100 - JS Training)<br>
         <code>EXP:</code> Level 16<br>
-        <code>EQUIP:</code> VS Code + Café + Fones de Ouvido
+        <code>EQUIP:</code> VS Code + Café + Fones
       </p>
-      <img src="https://assets.stickpng.com/images/5a6af81c00f7931c828e6704.png" width="100" alt="Pixel Heart" />
+      <br>
+      <!-- Sprites 8-bit / Pixel Art estáveis via GitHub/Raw ou CDN de jogos -->
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Cursors/master/Cursor/Heart/Heart%201.gif" width="48" alt="Pixel Heart" />
+      <p><code>[HP Crystal]</code></p>
     </td>
   </tr>
 </table>
@@ -70,7 +73,6 @@
 <p align="center">Ferramentas e tecnologias que utilizo nas minhas quests diárias:</p>
 
 <p align="center">
-  <!-- Linguagens & Core -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -128,9 +130,9 @@
 <!-- GITHUB STATS & LINGUAGENS -->
 <h3 align="center">📊 [ PAINEL DE ESTATÍSTICAS ]</h3>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Wandahoi39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wandahoi39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandahoi39&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=94a3b8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandahoi39&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=94a3b8" alt="Top Languages" />
 </p>
 
 <p align="center">
