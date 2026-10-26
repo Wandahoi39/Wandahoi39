@@ -17,7 +17,7 @@
       <h3>⚡ [ STATS DO JOGADOR ]</h3>
       <p>
         Olá! Seja bem-vindo ao meu santuário digital. Sou um estudante apaixonado por tecnologia, focado em criar experiências visuais marcantes na web. 
-        Minha jornada começou explorando o universo de <strong>HTML5</strong> e <strong>CSS3</strong>, e agora estou expandindo meus poderes mágicos dominando <strong>JavaScript</strong>.
+        Minha jornada começou explorando o universo de <strong>HTML5</strong> e <strong>CSS3</strong>, e agora estou expandindo, dominando <strong>JavaScript</strong>.
       </p>
       <ul>
         <li>🛡️ <strong>Classe:</strong> Estudante de Programação</li>
